@@ -4,5 +4,4 @@
 
 第二次修改！
 
-foods1xuehao
-foods1.com
+foods1xuehao foods1.com
